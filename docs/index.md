@@ -10,6 +10,7 @@
 
 
 ## Instructions:
+- Open WorkFlowy in a browser tab.
 - Click on the bookmarklet (a banner message will appear)
 - "Click here for required reload"
 - Uninstall the bookmarklet via Right click > Delete (MacOS: Control+Click > Delete)
