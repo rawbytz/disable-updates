@@ -15,7 +15,7 @@
 
 
 ## Version Notes:
-- v1.0 (2019-07-14): Bug fix: blah blah
+- v0.1 (2024-06-19): Initial release
 
 <!-- 
 LINKS REFERENCING THIS
