@@ -1,7 +1,6 @@
-# Page Title
-- Describe what this does
-
-![imageName]()
+# Disable Updates Feature in WorkFlowy
+- This will remove the "All Updates" item from the Left Bar.
+- This feature is no longer being developed or supported.  
 
 ## Installation: Drag this link to your bookmarks bar:
 
